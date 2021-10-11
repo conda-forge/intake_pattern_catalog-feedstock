@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-intake_pattern_catalog-green.svg)](https://anaconda.org/conda-forge/intake_pattern_catalog) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/intake_pattern_catalog.svg)](https://anaconda.org/conda-forge/intake_pattern_catalog) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/intake_pattern_catalog.svg)](https://anaconda.org/conda-forge/intake_pattern_catalog) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/intake_pattern_catalog.svg)](https://anaconda.org/conda-forge/intake_pattern_catalog) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-intake_pattern_catalog-green.svg)](https://anaconda.org/conda-forge/intake-pattern-catalog) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/intake-pattern-catalog.svg)](https://anaconda.org/conda-forge/intake-pattern-catalog) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/intake-pattern-catalog.svg)](https://anaconda.org/conda-forge/intake-pattern-catalog) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/intake-pattern-catalog.svg)](https://anaconda.org/conda-forge/intake-pattern-catalog) |
 
 Installing intake_pattern_catalog
 =================================
@@ -42,13 +42,13 @@ conda config --set channel_priority strict
 Once the `conda-forge` channel has been enabled, `intake_pattern_catalog` can be installed with:
 
 ```
-conda install intake_pattern_catalog
+conda install intake-pattern-catalog
 ```
 
 It is possible to list all of the versions of `intake_pattern_catalog` available on your platform with:
 
 ```
-conda search intake_pattern_catalog --channel conda-forge
+conda search intake-pattern-catalog --channel conda-forge
 ```
 
 
